@@ -23,7 +23,8 @@ For my usability test, I performed it on campus at UCLA using my personal laptop
 
 ## Links
 [UT Website Video](https://drive.google.com/file/d/1a43Xaud-ZKQnfvio9UrdCsIQlkOOJYrz/view?usp=sharing)
-[UT Reaction Video] (..)
+
+[UT Reaction Video](https://drive.google.com/file/d/1cXJLaYDznM4APmL68tyVr7UgN_i7oQTH/view?usp=sharing) 
 
 [UT Survey](https://docs.google.com/forms/d/e/1FAIpQLSehyivJUE11c95r_FxleMp9VB7nSpuwwS95h5J9OS59Srjq5g/viewform?vc=0&c=0&w=1&flr=0) 
 
@@ -34,3 +35,9 @@ For my usability test, I performed it on campus at UCLA using my personal laptop
 
 
 # Reflection
+
+The usabilty test was helpful for me to see how easy or hard it was for the participant to navigate the site. It gave me insight about what ws wrong with the site as well as the problems with the survey itself. There was one part of the survey that could have been more clear, but the participant was able to figure it out after spending some time navigating the site. 
+
+The participant thought the website was creative. trustworthy, professional, and familiar. It was very easy for her to complete the tasks. 
+
+Although she is not the target demographic, it gives insight to the overall usefulness of the website. For future surveys, I will test middle-aged men. 
