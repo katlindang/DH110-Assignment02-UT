@@ -22,7 +22,12 @@ For my usability test, I performed it on campus at UCLA using my personal laptop
 
 
 ## Links
-(link) [...]
+[UT Website Video](https://drive.google.com/file/d/1a43Xaud-ZKQnfvio9UrdCsIQlkOOJYrz/view?usp=sharing)
+[UT Reaction Video] (..)
+
+[UT Survey](https://docs.google.com/forms/d/e/1FAIpQLSehyivJUE11c95r_FxleMp9VB7nSpuwwS95h5J9OS59Srjq5g/viewform?vc=0&c=0&w=1&flr=0) 
+
+
 
 
 
