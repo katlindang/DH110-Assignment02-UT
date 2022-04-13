@@ -19,3 +19,12 @@ For my usability test, I performed it on campus at UCLA using my personal laptop
 * System Usability Scale (SUS)
 * Product Satisfaction Card
 * Demographics
+
+
+
+
+
+
+
+
+# Reflection
